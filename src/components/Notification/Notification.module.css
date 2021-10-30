@@ -1,0 +1,8 @@
+.notification {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.15;
+  width: 300px;
+  background-color: lightcyan;
+  padding: 20px;
+}
