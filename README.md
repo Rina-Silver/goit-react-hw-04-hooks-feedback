@@ -1,4 +1,4 @@
-# goit-react-hw-02-feedback
+# goit-react-hw-04-hooks-feedback
 
 [Ссылка на задание](https://github.com/goitacademy/react-homework/tree/master/homework-02).
 
